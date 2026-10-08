@@ -1,13 +1,13 @@
 {
   "metadata": {
     "version": "2.2.0",
-    "generated_at": "2026-10-08T17:53:36Z",
+    "generated_at": "2026-10-08T23:53:36Z",
     "coverage": "2024-01-01 to 2026-12-31",
     "display_timezone_intended": "Europe/Oslo (CET/CEST) - rendered by frontend",
     "timezone_policy": "All timestamps are UTC, computed from home-tz local release times via IANA zoneinfo. DST handled automatically.",
     "match_window_default_min": 20,
     "match_window_tentative_note": "Events with tentative_time=true (BOJ) use time_window_* bounds instead of a fixed +/-20min.",
-    "total_events": 3044,
+    "total_events": 3050,
     "counts_by_category": {
       "FOMC": 24,
       "ECB": 24,
@@ -55803,7 +55803,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302735",
@@ -55824,7 +55824,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302736",
@@ -55845,7 +55845,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308868",
@@ -55866,7 +55866,7 @@
       "actual": "-347.6B",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308880",
@@ -55887,7 +55887,7 @@
       "actual": "2191.9B",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_318722",
@@ -55908,7 +55908,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317470",
@@ -55929,7 +55929,7 @@
       "actual": "4.109%",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_300857",
@@ -55950,7 +55950,7 @@
       "actual": "47.0",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_300858",
@@ -55971,7 +55971,7 @@
       "actual": "47.4",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319610",
@@ -55992,7 +55992,7 @@
       "actual": "-0.8%",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319615",
@@ -56013,7 +56013,7 @@
       "actual": "0.9%",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319640",
@@ -56034,7 +56034,7 @@
       "actual": "19.5B",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319719",
@@ -56055,7 +56055,7 @@
       "actual": "15.0B",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "unscheduled-usd-135d6f8ce9da",
@@ -56120,7 +56120,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_283831",
@@ -56141,7 +56141,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322100",
@@ -56162,7 +56162,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "unscheduled-usd-68651e5f9187",
@@ -56205,7 +56205,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322992",
@@ -56247,7 +56247,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_323065",
@@ -56268,7 +56268,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "unscheduled-usd-50ee17afc5fd",
@@ -56290,7 +56290,7 @@
       "event_type": "release",
       "unscheduled": true,
       "source": "rss",
-      "last_scraped": "2026-10-08T17:49:09Z"
+      "last_scraped": "2026-10-08T20:49:08Z"
     },
     {
       "id": "claims-2026-10-2",
@@ -56332,7 +56332,7 @@
       "actual": "197K",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317680",
@@ -56353,7 +56353,7 @@
       "actual": "1.716M",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317685",
@@ -56374,7 +56374,7 @@
       "actual": "198.000K",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270233",
@@ -56395,7 +56395,7 @@
       "actual": "0.5%",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270488",
@@ -56416,7 +56416,7 @@
       "actual": "1.8%",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314267",
@@ -56437,7 +56437,7 @@
       "actual": "85B",
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301566",
@@ -56482,28 +56482,6 @@
       "last_scraped": "2026-10-02T11:53:38Z"
     },
     {
-      "id": "unscheduled-usd-5b91beecf239",
-      "event": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
-      "category": "Unscheduled News",
-      "currency": "USD",
-      "impact": "high",
-      "date_local": "2026-10-08",
-      "time_local": "12:00",
-      "tz_home": "America/New_York",
-      "timestamp_utc": 1791475200,
-      "datetime_utc": "2026-10-08T16:00:00Z",
-      "tentative_time": false,
-      "status": "actual",
-      "source_url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "prior": null,
-      "forecast": null,
-      "actual": null,
-      "event_type": "release",
-      "unscheduled": true,
-      "source": "rss",
-      "last_scraped": "2026-10-08T17:49:09Z"
-    },
-    {
       "id": "unscheduled-usd-34f94a867dc1",
       "event": "Trump says: We will not be attacking Iran any time soon",
       "category": "Unscheduled News",
@@ -56523,7 +56501,7 @@
       "event_type": "release",
       "unscheduled": true,
       "source": "rss",
-      "last_scraped": "2026-10-08T17:49:09Z"
+      "last_scraped": "2026-10-08T23:49:09Z"
     },
     {
       "id": "mt5_301603",
@@ -56544,7 +56522,73 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
+    },
+    {
+      "id": "unscheduled-usd-9e3e5b030769",
+      "event": "Oil settles circa 4% higher as two supply threats collide: Iran strike fears and Hurricane Isaias",
+      "category": "Unscheduled News",
+      "currency": "USD",
+      "impact": "high",
+      "date_local": "2026-10-08",
+      "time_local": "16:54",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1791492861,
+      "datetime_utc": "2026-10-08T20:54:21Z",
+      "tentative_time": false,
+      "status": "actual",
+      "source_url": "https://investinglive.com/commodities/oil-settles-circa-4-higher-as-two-supply-threats-collide-iran-strike-fears-and-hurricane-isaias/",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "unscheduled": true,
+      "source": "rss",
+      "last_scraped": "2026-10-08T23:49:09Z"
+    },
+    {
+      "id": "unscheduled-usd-5b91beecf239",
+      "event": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "category": "Unscheduled News",
+      "currency": "USD",
+      "impact": "high",
+      "date_local": "2026-10-08",
+      "time_local": "17:45",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1791495900,
+      "datetime_utc": "2026-10-08T21:45:00Z",
+      "tentative_time": false,
+      "status": "actual",
+      "source_url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "unscheduled": true,
+      "source": "rss",
+      "last_scraped": "2026-10-08T23:49:09Z"
+    },
+    {
+      "id": "unscheduled-usd-bfb5eb550702",
+      "event": "PepsiCo lowers profit guidance as cost pressure and a cautious US consumer bite",
+      "category": "Unscheduled News",
+      "currency": "USD",
+      "impact": "high",
+      "date_local": "2026-10-08",
+      "time_local": "19:02",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1791500551,
+      "datetime_utc": "2026-10-08T23:02:31Z",
+      "tentative_time": false,
+      "status": "actual",
+      "source_url": "https://investinglive.com/stocks/pepsico-lowers-profit-guidance-as-cost-pressure-and-a-cautious-us-consumer-bite/",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "unscheduled": true,
+      "source": "rss",
+      "last_scraped": "2026-10-08T23:49:09Z"
     },
     {
       "id": "mt5_286749",
@@ -56565,7 +56609,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_286761",
@@ -56586,7 +56630,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_318580",
@@ -56607,7 +56651,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281469",
@@ -56628,7 +56672,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281481",
@@ -56649,7 +56693,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320278",
@@ -56670,7 +56714,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_323079",
@@ -56691,7 +56735,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278064",
@@ -56712,7 +56756,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278076",
@@ -56733,7 +56777,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278088",
@@ -56754,7 +56798,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278100",
@@ -56775,7 +56819,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278112",
@@ -56796,7 +56840,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322095",
@@ -56817,7 +56861,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_268715",
@@ -56838,7 +56882,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_268739",
@@ -56859,7 +56903,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_268763",
@@ -56880,7 +56924,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_268787",
@@ -56901,7 +56945,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_268811",
@@ -56922,7 +56966,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_293060",
@@ -56943,7 +56987,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316029",
@@ -56964,7 +57008,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316030",
@@ -56985,7 +57029,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288215",
@@ -57006,7 +57050,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288262",
@@ -57027,7 +57071,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287792",
@@ -57048,7 +57092,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287839",
@@ -57069,7 +57113,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287886",
@@ -57090,7 +57134,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287933",
@@ -57111,7 +57155,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287980",
@@ -57132,7 +57176,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288027",
@@ -57153,7 +57197,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288074",
@@ -57174,7 +57218,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288121",
@@ -57195,7 +57239,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288168",
@@ -57216,7 +57260,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288309",
@@ -57237,7 +57281,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287745",
@@ -57258,7 +57302,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287510",
@@ -57279,7 +57323,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287698",
@@ -57300,7 +57344,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287369",
@@ -57321,7 +57365,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287463",
@@ -57342,7 +57386,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287604",
@@ -57363,7 +57407,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313346",
@@ -57384,7 +57428,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313347",
@@ -57405,7 +57449,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313348",
@@ -57426,7 +57470,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_237121",
@@ -57447,7 +57491,7 @@
       "actual": null,
       "event_type": "holiday",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_300237",
@@ -57468,7 +57512,7 @@
       "actual": null,
       "event_type": "holiday",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_299964",
@@ -57489,7 +57533,7 @@
       "actual": null,
       "event_type": "holiday",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_237643",
@@ -57510,7 +57554,7 @@
       "actual": null,
       "event_type": "holiday",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317611",
@@ -57531,7 +57575,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317615",
@@ -57552,7 +57596,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317619",
@@ -57573,7 +57617,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280987",
@@ -57594,7 +57638,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280993",
@@ -57615,7 +57659,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280999",
@@ -57636,7 +57680,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319688",
@@ -57657,7 +57701,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319696",
@@ -57678,7 +57722,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319704",
@@ -57699,7 +57743,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319712",
@@ -57720,7 +57764,28 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
+    },
+    {
+      "id": "mt5_323094",
+      "event": "Fed Governor Waller Speech",
+      "category": "USD Economic Data",
+      "currency": "USD",
+      "impact": "medium",
+      "date_local": "2026-10-13",
+      "time_local": "03:45",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1791877500,
+      "datetime_utc": "2026-10-13T07:45:00Z",
+      "tentative_time": false,
+      "status": "scheduled",
+      "source_url": "mt5://calendar/808252/mt5_323094",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "source": "mt5_calendar",
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_285836",
@@ -57741,7 +57806,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_285860",
@@ -57762,7 +57827,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280393",
@@ -57783,7 +57848,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320279",
@@ -57804,7 +57869,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320281",
@@ -57825,7 +57890,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_271229",
@@ -57846,7 +57911,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287287",
@@ -57867,7 +57932,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287298",
@@ -57888,7 +57953,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301540",
@@ -57909,7 +57974,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301553",
@@ -57930,7 +57995,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277882",
@@ -57951,7 +58016,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_272954",
@@ -57972,7 +58037,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317180",
@@ -57993,7 +58058,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317181",
@@ -58014,7 +58079,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317182",
@@ -58035,7 +58100,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280981",
@@ -58056,7 +58121,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281026",
@@ -58077,7 +58142,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281032",
@@ -58098,7 +58163,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282327",
@@ -58119,7 +58184,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282339",
@@ -58140,7 +58205,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282351",
@@ -58161,7 +58226,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319592",
@@ -58182,7 +58247,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319595",
@@ -58203,7 +58268,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319598",
@@ -58224,7 +58289,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319601",
@@ -58245,7 +58310,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319604",
@@ -58266,7 +58331,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319607",
@@ -58287,7 +58352,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319657",
@@ -58308,7 +58373,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319661",
@@ -58329,7 +58394,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322194",
@@ -58350,7 +58415,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282155",
@@ -58371,7 +58436,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282178",
@@ -58392,7 +58457,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282201",
@@ -58413,7 +58478,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282224",
@@ -58434,7 +58499,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320952",
@@ -58455,7 +58520,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317637",
@@ -58476,7 +58541,28 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
+    },
+    {
+      "id": "mt5_323092",
+      "event": "Fed Governor Bowman Speech",
+      "category": "USD Economic Data",
+      "currency": "USD",
+      "impact": "medium",
+      "date_local": "2026-10-14",
+      "time_local": "05:40",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1791970800,
+      "datetime_utc": "2026-10-14T09:40:00Z",
+      "tentative_time": false,
+      "status": "scheduled",
+      "source_url": "mt5://calendar/808252/mt5_323092",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "source": "mt5_calendar",
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "cpi-2026-10",
@@ -58518,7 +58604,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277504",
@@ -58539,7 +58625,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277516",
@@ -58560,7 +58646,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277528",
@@ -58581,7 +58667,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277540",
@@ -58602,7 +58688,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277552",
@@ -58623,7 +58709,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277748",
@@ -58644,7 +58730,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277784",
@@ -58665,7 +58751,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277796",
@@ -58686,7 +58772,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277808",
@@ -58707,7 +58793,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277820",
@@ -58728,7 +58814,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277968",
@@ -58749,7 +58835,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319003",
@@ -58770,7 +58856,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280292",
@@ -58791,7 +58877,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308212",
@@ -58812,7 +58898,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308213",
@@ -58833,7 +58919,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302108",
@@ -58854,7 +58940,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302109",
@@ -58875,7 +58961,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302110",
@@ -58896,7 +58982,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_302111",
@@ -58917,7 +59003,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313344",
@@ -58938,7 +59024,28 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
+    },
+    {
+      "id": "mt5_323093",
+      "event": "Fed Governor Bowman Speech",
+      "category": "USD Economic Data",
+      "currency": "USD",
+      "impact": "medium",
+      "date_local": "2026-10-14",
+      "time_local": "22:55",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1792032900,
+      "datetime_utc": "2026-10-15T02:55:00Z",
+      "tentative_time": false,
+      "status": "scheduled",
+      "source_url": "mt5://calendar/808252/mt5_323093",
+      "prior": null,
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "source": "mt5_calendar",
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322192",
@@ -58959,7 +59066,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322195",
@@ -58980,7 +59087,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289149",
@@ -59001,7 +59108,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289173",
@@ -59022,7 +59129,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289191",
@@ -59043,7 +59150,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_312439",
@@ -59058,13 +59165,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_312439",
-      "prior": "0.7%",
+      "source_url": "mt5://calendar/808252/mt5_323159",
+      "prior": "0.4%",
       "forecast": null,
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321776",
@@ -59079,13 +59186,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322941",
+      "source_url": "mt5://calendar/808252/mt5_323137",
       "prior": "-0.1%",
       "forecast": "-0.3%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321777",
@@ -59100,13 +59207,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322942",
+      "source_url": "mt5://calendar/808252/mt5_323138",
       "prior": "-2.3%",
       "forecast": "-1.4%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321778",
@@ -59121,13 +59228,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322943",
+      "source_url": "mt5://calendar/808252/mt5_323139",
       "prior": "-0.2%",
       "forecast": "-0.1%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321779",
@@ -59142,13 +59249,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322944",
+      "source_url": "mt5://calendar/808252/mt5_323140",
       "prior": "-0.2%",
       "forecast": "0.0%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321780",
@@ -59163,13 +59270,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322945",
+      "source_url": "mt5://calendar/808252/mt5_323141",
       "prior": "-0.5%",
       "forecast": "-0.2%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321781",
@@ -59184,13 +59291,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322946",
+      "source_url": "mt5://calendar/808252/mt5_323142",
       "prior": "0.5%",
       "forecast": "0.0%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321782",
@@ -59205,13 +59312,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322947",
+      "source_url": "mt5://calendar/808252/mt5_323143",
       "prior": "-23.007B",
       "forecast": "-22.037B",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321783",
@@ -59226,13 +59333,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322948",
+      "source_url": "mt5://calendar/808252/mt5_323144",
       "prior": "-10.448B",
       "forecast": "-4.324B",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321790",
@@ -59247,13 +59354,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322955",
+      "source_url": "mt5://calendar/808252/mt5_323151",
       "prior": "0.6%",
       "forecast": "0.2%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_321797",
@@ -59268,13 +59375,13 @@
       "datetime_utc": "2026-10-15T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322962",
+      "source_url": "mt5://calendar/808252/mt5_323158",
       "prior": "0.3%",
       "forecast": "0.0%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270626",
@@ -59295,7 +59402,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270632",
@@ -59316,7 +59423,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_309893",
@@ -59337,7 +59444,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_309897",
@@ -59358,7 +59465,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_309901",
@@ -59379,7 +59486,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_309905",
@@ -59400,7 +59507,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_285893",
@@ -59421,7 +59528,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_285916",
@@ -59442,7 +59549,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_285939",
@@ -59463,7 +59570,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317622",
@@ -59484,7 +59591,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317623",
@@ -59505,7 +59612,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319078",
@@ -59526,7 +59633,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319079",
@@ -59547,7 +59654,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278443",
@@ -59568,7 +59675,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282130",
@@ -59589,7 +59696,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "claims-2026-10-3",
@@ -59631,7 +59738,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270296",
@@ -59652,7 +59759,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270308",
@@ -59673,7 +59780,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270416",
@@ -59694,7 +59801,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270476",
@@ -59715,7 +59822,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277444",
@@ -59736,7 +59843,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277456",
@@ -59757,7 +59864,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277468",
@@ -59778,7 +59885,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277480",
@@ -59799,7 +59906,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287216",
@@ -59820,7 +59927,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287228",
@@ -59841,7 +59948,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287240",
@@ -59862,7 +59969,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287252",
@@ -59883,7 +59990,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287264",
@@ -59904,7 +60011,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287276",
@@ -59925,7 +60032,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317604",
@@ -59946,7 +60053,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317676",
@@ -59967,7 +60074,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317681",
@@ -59988,7 +60095,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317686",
@@ -60009,7 +60116,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278251",
@@ -60030,7 +60137,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278263",
@@ -60051,7 +60158,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270248",
@@ -60072,7 +60179,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270509",
@@ -60093,7 +60200,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270533",
@@ -60114,7 +60221,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315111",
@@ -60135,7 +60242,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301567",
@@ -60156,7 +60263,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301580",
@@ -60177,7 +60284,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314973",
@@ -60198,7 +60305,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314974",
@@ -60219,7 +60326,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314975",
@@ -60240,7 +60347,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314976",
@@ -60261,7 +60368,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314977",
@@ -60282,7 +60389,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314978",
@@ -60303,7 +60410,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314979",
@@ -60324,7 +60431,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314980",
@@ -60345,7 +60452,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314981",
@@ -60366,7 +60473,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_314982",
@@ -60387,7 +60494,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313564",
@@ -60408,7 +60515,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317170",
@@ -60429,7 +60536,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317171",
@@ -60450,7 +60557,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317172",
@@ -60471,7 +60578,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308869",
@@ -60492,7 +60599,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308881",
@@ -60513,7 +60620,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319902",
@@ -60534,7 +60641,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322193",
@@ -60555,7 +60662,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281383",
@@ -60576,7 +60683,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281407",
@@ -60597,7 +60704,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281431",
@@ -60618,7 +60725,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281455",
@@ -60639,7 +60746,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281648",
@@ -60660,7 +60767,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281660",
@@ -60681,7 +60788,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319080",
@@ -60702,7 +60809,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319082",
@@ -60723,7 +60830,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319084",
@@ -60744,7 +60851,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319085",
@@ -60765,7 +60872,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319086",
@@ -60786,7 +60893,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319087",
@@ -60807,7 +60914,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319088",
@@ -60828,7 +60935,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319089",
@@ -60849,7 +60956,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319090",
@@ -60870,7 +60977,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319091",
@@ -60891,7 +60998,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281493",
@@ -60912,7 +61019,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_281505",
@@ -60933,7 +61040,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280255",
@@ -60954,7 +61061,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277564",
@@ -60975,7 +61082,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277576",
@@ -60996,7 +61103,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277588",
@@ -61017,7 +61124,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277600",
@@ -61038,7 +61145,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277760",
@@ -61059,7 +61166,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278166",
@@ -61080,7 +61187,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278178",
@@ -61101,7 +61208,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280469",
@@ -61122,7 +61229,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280481",
@@ -61143,7 +61250,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280505",
@@ -61164,7 +61271,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_280517",
@@ -61185,7 +61292,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316786",
@@ -61206,7 +61313,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316787",
@@ -61227,7 +61334,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288216",
@@ -61248,7 +61355,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288263",
@@ -61269,7 +61376,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287793",
@@ -61290,7 +61397,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287840",
@@ -61311,7 +61418,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287887",
@@ -61332,7 +61439,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287934",
@@ -61353,7 +61460,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287981",
@@ -61374,7 +61481,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288028",
@@ -61395,7 +61502,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288075",
@@ -61416,7 +61523,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288122",
@@ -61437,7 +61544,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288169",
@@ -61458,7 +61565,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_288310",
@@ -61479,7 +61586,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287746",
@@ -61500,7 +61607,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287511",
@@ -61521,7 +61628,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287699",
@@ -61542,7 +61649,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287370",
@@ -61563,7 +61670,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287464",
@@ -61584,7 +61691,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287605",
@@ -61605,7 +61712,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_276710",
@@ -61626,7 +61733,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_276722",
@@ -61647,7 +61754,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_276734",
@@ -61668,7 +61775,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_276746",
@@ -61689,7 +61796,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_313565",
@@ -61710,7 +61817,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317176",
@@ -61731,7 +61838,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317177",
@@ -61752,7 +61859,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317178",
@@ -61773,7 +61880,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317179",
@@ -61794,7 +61901,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282362",
@@ -61815,7 +61922,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282373",
@@ -61836,7 +61943,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282408",
@@ -61857,7 +61964,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282442",
@@ -61878,7 +61985,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_282453",
@@ -61899,7 +62006,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289335",
@@ -61920,7 +62027,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289338",
@@ -61941,7 +62048,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289346",
@@ -61962,7 +62069,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289356",
@@ -61983,7 +62090,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_289361",
@@ -62004,7 +62111,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_293280",
@@ -62025,7 +62132,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277984",
@@ -62046,7 +62153,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_277996",
@@ -62067,7 +62174,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278008",
@@ -62088,7 +62195,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278020",
@@ -62109,7 +62216,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278275",
@@ -62130,7 +62237,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278287",
@@ -62151,7 +62258,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278299",
@@ -62172,7 +62279,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317612",
@@ -62193,7 +62300,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317616",
@@ -62214,7 +62321,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317620",
@@ -62235,7 +62342,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_290610",
@@ -62256,7 +62363,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301541",
@@ -62277,7 +62384,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301554",
@@ -62298,7 +62405,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_293813",
@@ -62319,7 +62426,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317636",
@@ -62340,7 +62447,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319665",
@@ -62361,7 +62468,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_319669",
@@ -62382,7 +62489,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322394",
@@ -62508,7 +62615,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_273169",
@@ -62529,7 +62636,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_273181",
@@ -62550,7 +62657,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278418",
@@ -62571,7 +62678,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278430",
@@ -62592,7 +62699,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320289",
@@ -62613,7 +62720,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320290",
@@ -62634,7 +62741,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316474",
@@ -62655,7 +62762,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_316478",
@@ -62676,7 +62783,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317639",
@@ -62697,7 +62804,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270200",
@@ -62718,7 +62825,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270212",
@@ -62739,7 +62846,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270344",
@@ -62760,7 +62867,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_270356",
@@ -62781,7 +62888,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287309",
@@ -62802,7 +62909,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287320",
@@ -62823,7 +62930,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_287331",
@@ -62844,7 +62951,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_256352",
@@ -62865,7 +62972,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_284590",
@@ -62886,7 +62993,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_284602",
@@ -62907,7 +63014,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_284614",
@@ -62928,7 +63035,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_284626",
@@ -62949,7 +63056,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320438",
@@ -62970,7 +63077,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322903",
@@ -62985,13 +63092,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322903",
+      "source_url": "mt5://calendar/808252/mt5_323099",
       "prior": "0.3%",
       "forecast": "-0.8%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322905",
@@ -63006,13 +63113,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322905",
+      "source_url": "mt5://calendar/808252/mt5_323101",
       "prior": "6.1%",
       "forecast": "2.6%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322907",
@@ -63027,13 +63134,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322907",
+      "source_url": "mt5://calendar/808252/mt5_323103",
       "prior": "0.7%",
       "forecast": "0.0%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322909",
@@ -63048,13 +63155,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322909",
+      "source_url": "mt5://calendar/808252/mt5_323105",
       "prior": "3.7%",
       "forecast": "3.6%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322911",
@@ -63069,13 +63176,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322911",
+      "source_url": "mt5://calendar/808252/mt5_323107",
       "prior": "0.3%",
       "forecast": "0.1%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322913",
@@ -63090,13 +63197,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322913",
+      "source_url": "mt5://calendar/808252/mt5_323109",
       "prior": "2.7%",
       "forecast": "3.2%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322915",
@@ -63111,13 +63218,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322915",
+      "source_url": "mt5://calendar/808252/mt5_323111",
       "prior": "0.5%",
       "forecast": "0.1%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322917",
@@ -63132,13 +63239,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322917",
+      "source_url": "mt5://calendar/808252/mt5_323113",
       "prior": "3.1%",
       "forecast": "2.7%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322919",
@@ -63153,13 +63260,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322919",
+      "source_url": "mt5://calendar/808252/mt5_323115",
       "prior": "2.6%",
       "forecast": "2.4%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322921",
@@ -63174,13 +63281,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322921",
+      "source_url": "mt5://calendar/808252/mt5_323117",
       "prior": "0.6%",
       "forecast": "0.0%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322923",
@@ -63195,13 +63302,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322923",
+      "source_url": "mt5://calendar/808252/mt5_323119",
       "prior": "3.3%",
       "forecast": "2.8%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322925",
@@ -63216,13 +63323,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322925",
+      "source_url": "mt5://calendar/808252/mt5_323121",
       "prior": "0.6%",
       "forecast": "0.2%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322927",
@@ -63237,13 +63344,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322927",
+      "source_url": "mt5://calendar/808252/mt5_323123",
       "prior": "3.4%",
       "forecast": "2.9%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322949",
@@ -63258,13 +63365,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322949",
+      "source_url": "mt5://calendar/808252/mt5_323145",
       "prior": "18.268B",
       "forecast": "24.701B",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322952",
@@ -63279,13 +63386,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322952",
+      "source_url": "mt5://calendar/808252/mt5_323148",
       "prior": "10.005B",
       "forecast": "0.725B",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322964",
@@ -63300,13 +63407,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322964",
+      "source_url": "mt5://calendar/808252/mt5_323160",
       "prior": "3.3%",
       "forecast": "3.1%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322966",
@@ -63321,13 +63428,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322966",
+      "source_url": "mt5://calendar/808252/mt5_323162",
       "prior": "0.5%",
       "forecast": "0.4%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322968",
@@ -63342,13 +63449,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322968",
+      "source_url": "mt5://calendar/808252/mt5_323164",
       "prior": "0.3%",
       "forecast": "0.2%",
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322970",
@@ -63363,13 +63470,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322970",
+      "source_url": "mt5://calendar/808252/mt5_323166",
       "prior": "143.6",
       "forecast": null,
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_322972",
@@ -63384,13 +63491,13 @@
       "datetime_utc": "2026-10-21T06:00:00Z",
       "tentative_time": false,
       "status": "scheduled",
-      "source_url": "mt5://calendar/808252/mt5_322972",
+      "source_url": "mt5://calendar/808252/mt5_323168",
       "prior": "143.4",
       "forecast": null,
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-07T17:53:35Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_323064",
@@ -63432,7 +63539,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315808",
@@ -63453,7 +63560,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315809",
@@ -63474,7 +63581,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315810",
@@ -63495,7 +63602,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315811",
@@ -63516,7 +63623,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315812",
@@ -63537,7 +63644,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315813",
@@ -63558,7 +63665,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315814",
@@ -63579,7 +63686,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315815",
@@ -63600,7 +63707,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315816",
@@ -63621,7 +63728,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301609",
@@ -63642,7 +63749,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317174",
@@ -63663,7 +63770,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317175",
@@ -63684,7 +63791,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308870",
@@ -63705,7 +63812,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_308882",
@@ -63726,7 +63833,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_309918",
@@ -63747,7 +63854,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "claims-2026-10-4",
@@ -63789,7 +63896,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317682",
@@ -63810,7 +63917,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_317687",
@@ -63831,7 +63938,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278199",
@@ -63852,7 +63959,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278211",
@@ -63873,7 +63980,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278223",
@@ -63894,7 +64001,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_278235",
@@ -63915,7 +64022,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_320095",
@@ -63936,7 +64043,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_284696",
@@ -63957,7 +64064,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_283345",
@@ -63978,7 +64085,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_315912",
@@ -63999,7 +64106,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_272128",
@@ -64020,7 +64127,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_272140",
@@ -64041,7 +64148,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301568",
@@ -64062,7 +64169,7 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "mt5_301581",
@@ -64083,7 +64190,28 @@
       "actual": null,
       "event_type": "release",
       "source": "mt5_calendar",
-      "last_scraped": "2026-10-08T17:53:36Z"
+      "last_scraped": "2026-10-08T23:53:36Z"
+    },
+    {
+      "id": "mt5_301604",
+      "event": "5-Year TIPS Auction",
+      "category": "USD Economic Data",
+      "currency": "USD",
+      "impact": "medium",
+      "date_local": "2026-10-22",
+      "time_local": "13:00",
+      "tz_home": "America/New_York",
+      "timestamp_utc": 1792688400,
+      "datetime_utc": "2026-10-22T17:00:00Z",
+      "tentative_time": false,
+      "status": "scheduled",
+      "source_url": "mt5://calendar/808252/mt5_301604",
+      "prior": "1.955%",
+      "forecast": null,
+      "actual": null,
+      "event_type": "release",
+      "source": "mt5_calendar",
+      "last_scraped": "2026-10-08T23:53:36Z"
     },
     {
       "id": "fomc-2026-10",
